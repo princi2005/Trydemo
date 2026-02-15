@@ -1,2 +1,3 @@
 # Trydemo
-let's try
+let's try.
+Author-Princi
